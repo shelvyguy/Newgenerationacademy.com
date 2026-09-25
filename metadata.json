@@ -1,0 +1,6 @@
+{
+  "name": "New Generation Academy - Academic Portal & Admissions",
+  "description": "Pioneering 21st-century dual-track Nigerian & British secondary education with online admissions, continuous assessment grading, parent-student hub, and administrative management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
